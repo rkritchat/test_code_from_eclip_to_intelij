@@ -10,6 +10,6 @@ public class Student {
 	
 	@GetMapping
 	public String test() {
-		return "Updated from intelij IDE";
+		return "Updated from intelij IDE then update agin from eclip";
 	}
 }
